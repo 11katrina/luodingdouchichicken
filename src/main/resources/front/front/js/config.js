@@ -33,8 +33,8 @@ var centerMenu = [
     url: "../" + localStorage.getItem("userTable") + "/center.html",
   },
   {
-    name: "个人中心拷贝",
-    url: "../yonghu/centerCopy.html",
+    name: "智能客服",
+    url: "../yonghu/customerService.html",
   },
 
   {
